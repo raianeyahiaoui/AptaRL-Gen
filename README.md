@@ -51,6 +51,7 @@ RL-DNA-Aptamer-Generation/
     └── methodology.md
 
 ## 📚 How to Cite
+
 @misc{yahiaoui2026,
   author       = {Yahiaoui, Raiane},
   title        = {Reinforcement Learning for De Novo Generation of High-Affinity DNA Aptamers from Sparse Experimental Data},
@@ -59,11 +60,12 @@ RL-DNA-Aptamer-Generation/
   note         = {https://github.com/raianeyahiaoui/RL-DNA-Aptamer-Generation}
 }
 
+
 ## 📬 Contact
-Email: yahiaouiraiane@gmail.com
-LinkedIn: Yahiaoui Raiane
-GitHub: @raianeyahiaoui 
-ORCID: 0009-0001-7900-6530
+** Email: yahiaouiraiane@gmail.com
+** LinkedIn: Yahiaoui Raiane
+** GitHub: @raianeyahiaoui 
+** ORCID: 0009-0001-7900-6530
 
 ## ⚖️ License
-This project is licensed under the MIT License — see the LICENSE file for details.
+** This project is licensed under the MIT License — see the LICENSE file for details.
