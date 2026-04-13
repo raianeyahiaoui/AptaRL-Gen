@@ -1,0 +1,29 @@
+# Exploration Notebook - DNA Aptamer Generation
+
+**Author**: Yahiaoui Raiane  
+**Project**: Reinforcement Learning for De Novo DNA Aptamer Generation
+
+This notebook contains exploratory analysis on the AptaBench v2 dataset and initial experiments.
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load dataset
+df = pd.read_csv("../AptaBench_dataset_v2.csv", low_memory=False)
+
+print("Dataset shape:", df.shape)
+print("\nColumns:", df.columns.tolist())
+
+# Basic statistics
+print("\nTarget molecule count:")
+print(df['canonical_smiles'].value_counts().head())
+
+# Sequence length distribution
+plt.figure(figsize=(10, 5))
+sns.histplot(df['sequence'].astype(str).str.len(), bins=50, kde=True)
+plt.title("Distribution of DNA Aptamer Sequence Lengths")
+plt.xlabel("Length (nucleotides)")
+plt.ylabel("Count")
+plt.grid(True, alpha=0.3)
+plt.show()
