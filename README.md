@@ -32,36 +32,40 @@ We propose a **REINFORCE** policy-gradient method with a **GRU-based policy netw
 Statistical Superiority
 <img src="results/figures/superiority.png" alt="Statistical Superiority">
 AI-generated aptamers vs random baseline (oracle scores)
+
 Guanine Motif Enrichment
 <img src="results/figures/motif_enrichment.png" alt="Motif Enrichment">
 Significant guanine selection for stability
+
 Digital Fingerprints
 <img src="results/figures/fingerprints.png" alt="Digital Fingerprints">
 Color-coded nucleotide motifs of AI candidates
+
 Circular Dichroism (CD) Spectrum
 <img src="results/figures/cd_spectrum.png" alt="CD Spectrum">
 Verification of G-quadruplex folding topology
+
 Simulated SPR Binding Kinetics
 <img src="results/figures/spr_curve.png" alt="SPR Curve">
 Real-time binding kinetics for procaine
 
 ## 📖 How to Cite
-bibtex@misc{yahiaoui2026,
-  author       = {Yahiaoui, Raiane},
-  title        = {Reinforcement Learning for De Novo Generation of High-Affinity DNA Aptamers from Sparse Experimental Data},
-  year         = {2026},
-  howpublished = {GitHub},
-  note         = {https://github.com/raianeyahiaoui/RL-DNA-Aptamer-Generation}
-}
+###bibtex@misc{yahiaoui2026,
+###  author       = {Yahiaoui, Raiane},
+###  title        = {Reinforcement Learning for De Novo Generation of High-Affinity DNA Aptamers from Sparse Experimental Data},
+###  year         = {2026},
+###  howpublished = {GitHub},
+###  note         = {https://github.com/raianeyahiaoui/RL-DNA-Aptamer-Generation}
+###}
 
 ## 📬 Contact
 
-# Email: yahiaouiraiane@gmail.com
-# LinkedIn: Yahiaoui Raiane
-# GitHub: @raianeyahiaoui
-# ORCID: 0009-0001-7900-6530
+### Email: yahiaouiraiane@gmail.com
+### LinkedIn: Yahiaoui Raiane
+### GitHub: @raianeyahiaoui
+### ORCID: 0009-0001-7900-6530
 
 
 ## 📜 License
-# This project is licensed under the MIT License — see the LICENSE file for details.
+### This project is licensed under the MIT License — see the LICENSE file for details.
 
