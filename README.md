@@ -49,16 +49,6 @@ Verification of G-quadruplex folding topology
 <img src="results/figures/spr_curve.png" alt="SPR Curve">
 Real-time binding kinetics for procaine
 
-## 📚 How to Cite
-To reference this work, please use the following BibTeX entry:
-@misc{yahiaoui2026,
-  author       = {Yahiaoui, Raiane},
-  title        = {Reinforcement Learning for De Novo Generation of High-Affinity DNA Aptamers from Sparse Experimental Data},
-  year         = {2026},
-  howpublished = {GitHub},
-  note         = {https://github.com/raianeyahiaoui/RL-DNA-Aptamer-Generation}
-}
-
 
 ## 📬 Contact
 ### Email: yahiaouiraiane@gmail.com
